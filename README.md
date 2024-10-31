@@ -29,7 +29,7 @@ A beautiful web application that allows users to create a restaurant menu and di
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/AhmadHusirami/Restaurant-Menu.git
 ```
 
 Go to the project directory
